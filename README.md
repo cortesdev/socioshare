@@ -8,7 +8,9 @@ Download and place on plugins folder, activate the plugin and use it.
 
 ## Usage
 
-– Page Options: Sidebar > Settings > SocioPlugin and insert your own Facebook Page url.
+Use the shortcode `[pagelike]`
+
+Then go to Page Options: Sidebar > Settings > SocioPlugin and insert your own Facebook Page url.
  
 ## Contributing
 
