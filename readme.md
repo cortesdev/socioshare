@@ -1,6 +1,6 @@
 # SocioShare Plugin - Wordpress
 
-Plugin made for share responsivelly Facebook profile page share on Wordpress.
+Wordpress Plugin created for sharing responsively Facebook profile adds in pages, posts, sidebars.
 
 ## Installation
 
