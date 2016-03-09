@@ -29,5 +29,4 @@ Ricardo Côrtes - [Cortesdev](http://ricardocortes.de)
 
 ## License
 
-License MIT
- 
+MIT
